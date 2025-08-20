@@ -1,0 +1,22 @@
+cat > data.csv <<EOF
+department,expense,amount
+Customer Support,Personnel,25700
+Customer Support,Travel,5213
+Sales,Hardware,29623
+Sales,Content,44045
+Operations,Personnel,5277
+Sales,Travel,4706
+Finance,Supplies,27412
+Marketing,Training,40672
+IT,Hardware,17491
+Sales,Supplies,27927
+Operations,Consulting,21961
+Marketing,Software,29188
+HR,Training,10277
+IT,Consulting,43488
+IT,Travel,3163
+Finance,Hardware,49514
+Engineering,Software,2121
+Sales,Travel,13423
+Operations,Personnel,1327
+EOF
