@@ -1,4 +1,3 @@
-cat > data.csv <<EOF
 department,expense,amount
 Customer Support,Personnel,25700
 Customer Support,Travel,5213
